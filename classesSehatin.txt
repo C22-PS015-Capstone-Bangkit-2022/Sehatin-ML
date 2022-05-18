@@ -1,0 +1,76 @@
+apple
+apple-pie
+asparagus
+avocado
+bakso
+barley
+bayam
+beef
+beverage drinks
+blackberry
+bluefin-tuna
+bread
+broccoli
+burger
+cake
+cherry
+chicken-curry
+chicken-wings
+corn
+cucumber
+donut
+dragon-fruit
+dumpling
+egg-yolk
+eggplant
+french-fries
+fried-chicken
+fried-mushroom
+fried-rice
+grape
+gulai
+hotdog
+ice-cream
+jus alpukat
+jus mangga
+kacang camilan
+lasagna
+lettuce
+lumpia
+macaroni
+mackerel-fillet
+mango
+melon-cantaloupe
+mie-goreng
+milk
+noodle
+oatmeal
+omelette
+onion-ring
+oranges
+oysters
+pancakes
+pear
+pisang goreng
+pizza
+plain-yogurt
+plate
+pork-chop
+potato
+pudding
+ramen
+rice
+salad
+sambal
+sate
+sayur hijau
+shrimp-cooked
+soto
+spaghetti
+spring-roll
+steak
+tahu
+tempe
+tomato
+waffles
+yogurt
