@@ -10,5 +10,7 @@ Every code files that are being used on training and deploying ML model in Sehat
 Sehatin Label's (currently) : ./classesSehatin.txt
 
 **Split-data**:
+
 classification-splitting: ./split_dataset_sehatin.ipynb
+
 objectdetection-splitting: -
